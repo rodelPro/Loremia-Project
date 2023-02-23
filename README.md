@@ -12,3 +12,4 @@ printf("Hello World!");
  New commit 2
 
 Branch Commit 1 
+Branch Commit 2
